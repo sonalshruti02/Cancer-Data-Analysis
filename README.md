@@ -29,10 +29,10 @@ This analysis demonstrates data cleaning, visualization, and insight generation 
 
 ---
 
-## 🔍 Key Insights (Update after upload if needed)
-- Most affected age group: ___
-- Highest cases gender: ___
-- Stage with lowest survival rate: ___
+## 🔍 Key Insights
+- Most affected age group: Greater than 65 years
+- Highest cases gender: No bias
+- Stage with lowest survival rate: Stage II
 
 ---
 
